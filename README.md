@@ -58,7 +58,7 @@ Write a python script which go on https://orteil.dashnet.org/cookieclicker/ and 
 Your script will now make the upgrade
 
 ### Exercise 3 <br/>
-Your script will ave you progression every minute !
+Your script will save you progression every minute !
 
 
 ### Well done you finish the work shop !<br/>
